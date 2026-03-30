@@ -1,0 +1,28 @@
+body {
+    background-color: ghostwhite;
+    font-size: 15px;
+    overflow: auto;
+}
+.title {
+    font-size: 30px;
+    line-height: 30px;
+    height: 60px;
+    padding: 15px;
+    text-align: center;
+    font-weight: bold;
+}  
+.explain {
+    line-height: normal;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: start;
+}
+div{
+    text-align: center;
+}
+img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-width: 70%;
+    height: auto;
+}
